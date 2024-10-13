@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-main-using-css-fu-H8nuO9T)
-- Live Site URL: [Add live site URL here](https://asimsaeed353.github.io/stats-preview-card-component-main/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-main-using-css-fu-H8nuO9T)
+- Live Site URL: [Live Site](https://asimsaeed353.github.io/stats-preview-card-component-main/)
 
 ## My process
 
